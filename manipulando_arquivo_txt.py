@@ -20,4 +20,3 @@ arqu2.close
 arq3 = open('arquivos/arquivo.txt', 'a+')
 
 arq3.write("Nova escrita sem excluir.")
-
